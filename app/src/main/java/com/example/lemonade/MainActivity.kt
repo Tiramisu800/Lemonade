@@ -146,7 +146,7 @@ class MainActivity : AppCompatActivity() {
             }
             DRINK -> {
                 textAction.text = "Click to drink your lemonade!"
-                lemonImage.setImageResource(R.drawable.lemon_drink)
+                lemonImage.setImageResource(R.drawable.holiday)
             }
             RESTART -> {
                 textAction.text = "Click to start again!"
